@@ -1,1 +1,1 @@
-# healthyfries
+# Welcome to your Lovable Project!
